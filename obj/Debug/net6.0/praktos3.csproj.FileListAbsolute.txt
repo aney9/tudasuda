@@ -1,0 +1,14 @@
+C:\Users\Тимофей\source\repos\praktos3\praktos3\bin\Debug\net6.0\praktos3.exe
+C:\Users\Тимофей\source\repos\praktos3\praktos3\bin\Debug\net6.0\praktos3.deps.json
+C:\Users\Тимофей\source\repos\praktos3\praktos3\bin\Debug\net6.0\praktos3.runtimeconfig.json
+C:\Users\Тимофей\source\repos\praktos3\praktos3\bin\Debug\net6.0\praktos3.dll
+C:\Users\Тимофей\source\repos\praktos3\praktos3\bin\Debug\net6.0\praktos3.pdb
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\praktos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\praktos3.AssemblyInfoInputs.cache
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\praktos3.AssemblyInfo.cs
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\praktos3.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\praktos3.dll
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\refint\praktos3.dll
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\praktos3.pdb
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\praktos3.genruntimeconfig.cache
+C:\Users\Тимофей\source\repos\praktos3\praktos3\obj\Debug\net6.0\ref\praktos3.dll
